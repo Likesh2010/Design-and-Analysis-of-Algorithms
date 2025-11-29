@@ -16,4 +16,3 @@ scanf("%d",&x);
 y=fibonacci(x);
 printf("%d",y);
 }
-//since there is no use of for loop ,So,The space complexity of the program is O(1).
