@@ -10,4 +10,3 @@ scanf("%d",&a);
 b=sum(a);
 printf("%d",b);
 }
-//since there is no use of for loop ,So,The space complexity of the program is O(1).
