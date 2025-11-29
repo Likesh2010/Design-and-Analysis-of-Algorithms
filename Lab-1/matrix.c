@@ -27,4 +27,3 @@ for(int i=0;i<3;i++){
  printf("\n");
 }
 }
-//since there is no use of for loop ,So,The space complexity of the program is O(9).
