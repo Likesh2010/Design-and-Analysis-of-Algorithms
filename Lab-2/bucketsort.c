@@ -48,12 +48,12 @@ int main(){
     scanf("%d", &n);
     float arr[n];
     printf("Enter floating point numbers between 0 and 1:\n");
-    for (int i=0;i<n;i++){
+    for(int i=0;i<n;i++){
       scanf("%f", &arr[i]);
     }
     bucketSort(arr, n);
     printf("Sorted array:\n");
-    for (int i=0;i<n;i++){
+    for(int i=0;i<n;i++){
         printf("%f ", arr[i]);
     }
     return 0;
