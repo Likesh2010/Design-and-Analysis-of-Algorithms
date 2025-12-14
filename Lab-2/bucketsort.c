@@ -56,7 +56,7 @@ int main(){
     for(int i=0;i<n;i++){
         printf("%f ", arr[i]);
     }
-    printf("\nCH.SC.U4CSE24152\n:);
+    printf("\nCH.SC.U4CSE24152\n");
     return 0;
 }
   
