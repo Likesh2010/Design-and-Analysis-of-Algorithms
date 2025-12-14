@@ -26,5 +26,6 @@ int main(){
     selectionSort(arr,n);
     printf("Sorted array: ");
     printArray(arr,n);
+    printf("CH.SC.U4CSE24152\n");
     return 0;
 }
