@@ -29,7 +29,7 @@ int main(){
     }
     printf("DFS Traversal: ");
     DFS(adj, n, start);
-    printf("\nCH.SC.U4CSE24152\n"):
+    printf("\nCH.SC.U4CSE24152\n");
     return 0;
 }
 
