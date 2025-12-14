@@ -34,6 +34,6 @@ int main(){
     for(int i=0;i<n;++i){
         printf("%d ",arr[i]);
     }
-    printf("\n");
+    printf("\nCH.SC.U4CSE24152\n");
     return 0;
 }
